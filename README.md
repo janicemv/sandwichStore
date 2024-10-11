@@ -1,8 +1,10 @@
-## Sandwiches
+## Sandwich Store
 
 In a cafeteria, sandwiches can be ordered before 10:00 AM. A web application has been created so that students can do this via computer.
 
-- [x] Each student must first register with the system. The subsequent login will be done with an email address and password. However, the student cannot choose the password themselves. It is generated (4 characters, numbers, uppercase and lowercase letters possible), and sent via email after registration is complete.
+- [x] Each student must first register with the system. The subsequent login will be done with an email address and password.
+
+- [x] However, the student cannot choose the password themselves. It is generated (4 characters, numbers, uppercase and lowercase letters possible), and sent via email after registration is complete.
 
 - [x] The student must check their mailbox after registration to retrieve the password and log in.
 

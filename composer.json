@@ -1,0 +1,16 @@
+{
+    "name": "janic/extra-broodjes",
+    "autoload": {
+        "psr-4": {
+            "Data\\": "Data/"
+        }
+    },
+    "authors": [
+        {
+            "name": "janice",
+            "email": "janice.vilela@gmail.com"
+        }
+    ],
+    "require": {}
+}
+
